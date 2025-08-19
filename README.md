@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm Dipali Kirdak 👋  
 
 💻 Front-End Developer | 🌱 Aspiring Full-Stack Developer | 🤖 Using AI Tools to Build Projects  
 
